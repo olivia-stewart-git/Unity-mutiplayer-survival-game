@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: ee12bf03845e84b4e97f671ef73eec49
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - barrelEnd: {instanceID: 0}
+  - thisGun: {instanceID: 0}
+  - adsBase: {instanceID: 0}
+  - adsCentre: {instanceID: 0}
+  - gunCanvasObj: {fileID: 7945518836802681074, guid: 859056cb421f073419c8dc9eaf8d5b25, type: 3}
+  - magObjectParent: {instanceID: 0}
+  - gunAnimator: {instanceID: 0}
+  - shootNormal: {instanceID: 0}
+  - shootAds: {instanceID: 0}
+  - pMoveSync: {instanceID: 0}
+  - shootParticles: {instanceID: 0}
+  - shellParticles: {instanceID: 0}
+  - attachmentIconUi: {fileID: 8931115743555003200, guid: f4f04a247d18e0b43bff2aaaf2dfec89, type: 3}
+  - equipAttachmentSound: {fileID: 8300000, guid: 69a40f38eb87fef4b8f5a279fb55cbfe, type: 3}
+  - removeAttachmentSound: {fileID: 8300000, guid: 40786e3fe02f2de4083f5ebb6c8a0998, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
